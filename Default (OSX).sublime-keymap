@@ -1,0 +1,60 @@
+[
+    //自动进行文件缩进
+    {
+        "keys": ["shift+tab"], "command": "reindent","args":{"single_line":false}
+    },
+    // 文件绝对路径
+    { "keys": ["ctrl+shift+c"], "command": "copy_path" },
+    //快捷打开浏览器
+    {
+        "keys": ["f1"],
+        "command": "side_bar_files_open_with",
+        "args": {
+            "paths": [],
+            "application": "Google Chrome.app",//你的浏览器路径
+            "extensions": ".*" //匹配任何文件类型
+        }
+    },
+    //markdown 预览
+    {
+        "keys": ["super+f6"],
+        "command": "markdown_preview",
+        "args":{
+            "target":"browser",
+            "parser":"markdown"
+        }
+    },
+    //将html拼接成js字符串插入页面 数组版
+    {
+        "keys": ["super+f7"],
+        "command": "quote_html",
+        "args": {
+            // "action": "single-ws-ar"
+            "action": "single-ar"
+            // "action": "single"
+        }
+    },
+    //将html拼接成js字符串插入页面 加号版
+    {
+        "keys": ["super+f8"],
+        "command": "quote_html",
+        "args": {
+            // "action": "single-ws-ar"
+            // "action": "single-ar
+            "action": "single"
+        }
+    },
+    // 删除当前行，默认是ctrl，改成cmd
+    {
+        "keys": ["super+shift+k"],
+        "command": "run_macro_file",
+        "args": {
+            "file": "res://Packages/Default/Delete Line.sublime-macro"
+        }
+    },
+    // "draw_white_space": "all", //（配置文件中的，控制显示和空格
+    // ）
+
+
+]
+

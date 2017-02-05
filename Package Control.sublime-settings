@@ -1,0 +1,44 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"AutoFileName",
+		"Autoprefixer",
+		"Babel",
+		"Better Completion",
+		"Boxy Theme",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"ColorPicker",
+		"CSS3",
+		"DocBlockr",
+		"EditorConfig",
+		"Emmet",
+		"GitGutter",
+		"GitSavvy",
+		"HTML-CSS-JS Prettify",
+		"JavaScript & NodeJS Snippets",
+		"JavaScript Patterns",
+		"LESS",
+		"LiveReload",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Material Theme",
+		"Package Control",
+		"QuoteHTML",
+		"rem-unit",
+		"Sass",
+		"SideBarEnhancements",
+		"SideBarFolders",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"Terminal",
+		"Vue Syntax Highlight",
+		"WakaTime"
+	]
+}

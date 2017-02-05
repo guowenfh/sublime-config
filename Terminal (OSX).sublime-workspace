@@ -1,0 +1,1372 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"doc",
+				"DOCUMENT_POSITION_IMPLEMENTATION_SPECIFIC: const unsigned short\tNode"
+			],
+			[
+				"mar",
+				"margin-bottom: $1;\tProperty"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"pae",
+				"parent\tjQuery"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"sty",
+				"style=\"margin-bottom"
+			],
+			[
+				"text",
+				"textAlign\tStyle CSS"
+			],
+			[
+				"that",
+				"that.$el.find(\".searchNull\").remove"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"pa",
+				"param\tjQuery"
+			],
+			[
+				"style",
+				"style=\"display:none"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"lev",
+				"level"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"wid",
+				"width: $1;\tProperty"
+			],
+			[
+				"br",
+				"break"
+			],
+			[
+				"sta",
+				"status\tjsWindow"
+			],
+			[
+				"note",
+				"note-marketing"
+			],
+			[
+				"call",
+				"callback"
+			],
+			[
+				"link",
+				"link_name"
+			],
+			[
+				"def",
+				"default〔keyword〕"
+			],
+			[
+				"short",
+				"short_url_type"
+			],
+			[
+				"va",
+				"val\tjQuery"
+			],
+			[
+				"dii",
+				"display: inline-block;\tProperty"
+			],
+			[
+				"change",
+				"changeShort_url_select"
+			],
+			[
+				"getMo",
+				"getMethod"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"script",
+				"script"
+			],
+			[
+				"sc",
+				"script\tHTML/Element"
+			],
+			[
+				"setT",
+				"setTimeout\tjsWindow"
+			],
+			[
+				"app",
+				"append\tjQuery"
+			],
+			[
+				"da",
+				"data"
+			],
+			[
+				"js",
+				"json"
+			],
+			[
+				"lon",
+				"longUrl"
+			],
+			[
+				"cu",
+				"currentSmsTemplate"
+			],
+			[
+				"sl",
+				"slideDown\tjQuery"
+			],
+			[
+				"removec",
+				"removeClass"
+			],
+			[
+				"send",
+				"sendType"
+			],
+			[
+				"getM",
+				"getMethod"
+			],
+			[
+				"quer",
+				"querySelectorAll\tjsDOM"
+			],
+			[
+				"che",
+				"checkArr"
+			],
+			[
+				"qu",
+				"querySelector\tjsDOM"
+			],
+			[
+				"check",
+				"checked"
+			],
+			[
+				"appen",
+				"appendChild\tjsDOM"
+			],
+			[
+				"create",
+				"createElement\tjsDOM"
+			],
+			[
+				"lab",
+				"labelName"
+			],
+			[
+				"add",
+				"addClass\tjQuery"
+			],
+			[
+				"di",
+				"display: block;\tProperty"
+			],
+			[
+				"resul",
+				"result"
+			],
+			[
+				"pra",
+				"param\tjQuery"
+			],
+			[
+				"toL",
+				"toLocaleDateString\tjsDate"
+			],
+			[
+				"end",
+				"endDate"
+			],
+			[
+				"deb",
+				"debugger〔keyword〕"
+			],
+			[
+				"sp",
+				"splice\tjsArray"
+			],
+			[
+				"rc",
+				"rcm\tTatami的module层语法"
+			],
+			[
+				"isI",
+				"isIos"
+			],
+			[
+				"cos",
+				"console\tjsProp"
+			],
+			[
+				"cons",
+				"console\tjsProp"
+			],
+			[
+				"cl",
+				"click\tjQuery"
+			],
+			[
+				"z",
+				"z-index: 〔property〕"
+			],
+			[
+				"re",
+				"remove\tjQuery"
+			],
+			[
+				"fu",
+				"function\tjsProp"
+			],
+			[
+				"ty",
+				"type\tjQuery"
+			],
+			[
+				"indexif",
+				"indexOf(searchValue)\tString"
+			],
+			[
+				"isP",
+				"isPayTime"
+			],
+			[
+				"clas",
+				"class"
+			],
+			[
+				"con",
+				"container\tBootstrapClass"
+			],
+			[
+				"par",
+				"param\tjQuery"
+			],
+			[
+				"_sms_",
+				"_sms_input_result〔namespace〕"
+			],
+			[
+				"curr",
+				"currentTarget\tjQueryEvent"
+			],
+			[
+				"ctr",
+				"ctrlsMap"
+			],
+			[
+				"t",
+				"target\tjQueryEvent"
+			],
+			[
+				"eve",
+				"events"
+			],
+			[
+				"hash",
+				"hashs"
+			],
+			[
+				"cm",
+				"confirm\tjsWindow"
+			],
+			[
+				"err",
+				"error\tjsEvent"
+			],
+			[
+				"al",
+				"alert\tjsWindow"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"bg",
+				"bg+\tbackground: ${1:#fff} url(${2}) ${3:0} ${4:0} ${5:no-repeat};"
+			],
+			[
+				"status",
+				"status"
+			],
+			[
+				"href",
+				"href=\"https"
+			],
+			[
+				"im",
+				"important.css"
+			],
+			[
+				"pd",
+				"pd_l_p5"
+			],
+			[
+				"13px",
+				"13px -> .65rem(keep px value)"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"44px",
+				"44px -> 2.2rem(keep px value)"
+			],
+			[
+				"jun",
+				"justify-content: $1;\tProperty"
+			],
+			[
+				"flex-",
+				"flex-grow;\tProperty"
+			],
+			[
+				"bottom",
+				"bottom: $1;\tProperty"
+			],
+			[
+				"24px",
+				"24px -> 1.2rem(keep px value)"
+			],
+			[
+				"43px",
+				"43px -> 2.15rem(20px/rem)"
+			],
+			[
+				"trade",
+				"trades"
+			],
+			[
+				"fun",
+				"func"
+			],
+			[
+				"inde",
+				"independent"
+			],
+			[
+				"fn",
+				"function with name"
+			],
+			[
+				"func",
+				"function with name"
+			],
+			[
+				"ex",
+				"extend"
+			],
+			[
+				"m",
+				"minimum-scale=1.0"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"resu",
+				"result"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"htm",
+				"html\thtml"
+			],
+			[
+				"uniq",
+				"uniqArray"
+			],
+			[
+				"56px",
+				"56px -> 2.8rem(20px/rem)"
+			],
+			[
+				"短信",
+				"短信催付"
+			],
+			[
+				"rea",
+				"reason"
+			],
+			[
+				"div",
+				"div"
+			],
+			[
+				"html",
+				"html\tHTML/Element"
+			],
+			[
+				"o",
+				"okl\tObject.keys loop"
+			],
+			[
+				"taoba",
+				"taobaoNick"
+			],
+			[
+				"taob",
+				"taobaoNick"
+			],
+			[
+				"tao",
+				"taobaoNick"
+			],
+			[
+				"go",
+				"goPage"
+			],
+			[
+				"andriod",
+				"android"
+			],
+			[
+				"cal",
+				"callback"
+			],
+			[
+				"loc",
+				"location\tjsWindow"
+			],
+			[
+				"conf",
+				"config"
+			],
+			[
+				"se",
+				"search\tjsString"
+			],
+			[
+				"res",
+				"result\tjQueryEvent"
+			],
+			[
+				"up",
+				"upgrade"
+			],
+			[
+				"spl",
+				"split\tjsString"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"po",
+				"pointer"
+			],
+			[
+				"fi",
+				"fixed"
+			],
+			[
+				"ran",
+				"random\tjsMath"
+			],
+			[
+				"fo",
+				"fori\tJS - For In loop"
+			],
+			[
+				"tra",
+				"traceData"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Markdown Preview/Markdown.sublime-build",
+					""
+				],
+				[
+					"Packages/User/markdown.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Markdown Preview/Markdown.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 357.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"js",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"pcl",
+				"Package Control: List Packages"
+			],
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"pcd",
+				"Package Control: Discover Packages"
+			],
+			[
+				"pcr",
+				"Package Control: Remove Package"
+			],
+			[
+				"pc",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"pcu",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"ht",
+				"Quote '  <HTML>' + '  </HTML>';"
+			],
+			[
+				"log",
+				"git: log current file"
+			],
+			[
+				"diff",
+				"git: diff current file"
+			],
+			[
+				"j s",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"a",
+				"Autoprefix CSS"
+			],
+			[
+				"au",
+				"Autoprefix CSS"
+			],
+			[
+				"",
+				"Autoprefix CSS"
+			],
+			[
+				"liver",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"json",
+				"Set Syntax: JSON (Javascript Next)"
+			],
+			[
+				"m d",
+				"Preferences: MarkdownEditing Settings – Default"
+			],
+			[
+				"mater",
+				"Material Theme: Configuration"
+			],
+			[
+				"bo",
+				"Boxy Theme: Activation"
+			],
+			[
+				"m",
+				"Material Theme: Configuration"
+			],
+			[
+				"sub",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"j son",
+				"Set Syntax: JSON (Javascript Next)"
+			],
+			[
+				"live",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"git",
+				"git: log"
+			],
+			[
+				"sublime",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"sublim",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"h t m l",
+				"Set Syntax: HTML"
+			],
+			[
+				"waka",
+				"WakaTime: Open Dashboard"
+			],
+			[
+				"wak",
+				"WakaTime: Open Dashboard"
+			],
+			[
+				"git ",
+				"git: pull"
+			],
+			[
+				"sublimer",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"lin",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"p ci",
+				"Package Control: Install Package"
+			],
+			[
+				"pce",
+				"Package Control: Enable Package"
+			],
+			[
+				"wa",
+				"WakaTime: Open Dashboard"
+			],
+			[
+				"mi ni",
+				"View: Toggle Minimap"
+			],
+			[
+				"jso",
+				"Set Syntax: JSON (Javascript Next)"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"p c c",
+				"Package Control: Create Package File"
+			],
+			[
+				"sn",
+				"Snippet: editorconfig"
+			],
+			[
+				"cpd",
+				"Package Control: Discover Packages"
+			],
+			[
+				"pco",
+				"Package Control: Install Package"
+			],
+			[
+				"cpi",
+				"Color Picker"
+			],
+			[
+				"data",
+				"Emmet: Encode\\Decode Image to data:URL"
+			],
+			[
+				"auto",
+				"Autoprefix CSS"
+			],
+			[
+				"emmm",
+				"Emmet: Encode\\Decode Image to data:URL"
+			],
+			[
+				"htm",
+				"Quote '<HTML>' + '</HTML>';"
+			],
+			[
+				"autop",
+				"Autoprefix CSS"
+			],
+			[
+				"cs",
+				"Set Syntax: CSS3"
+			],
+			[
+				"cpe",
+				"Package Control: Enable Package"
+			],
+			[
+				"p c d",
+				"Package Control: Discover Packages"
+			],
+			[
+				"map ",
+				"View: Toggle Minimap"
+			],
+			[
+				"css3",
+				"Set Syntax: CSS3"
+			],
+			[
+				"wa ka",
+				"WakaTime: Open Dashboard"
+			],
+			[
+				"upgrade",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"css",
+				"Set Syntax: CSS3"
+			],
+			[
+				"q",
+				"Quote ['  <HTML>', '  </HTML>'].join(\"\");"
+			],
+			[
+				"mac",
+				"Markdown Preview: Copy to Clipboard"
+			],
+			[
+				"snippet",
+				"Snippet: JSON.stringify"
+			],
+			[
+				"s p",
+				"SublimeLinter: Create Linter Plugin"
+			],
+			[
+				"s",
+				"Snippet: Tatami的view层语法"
+			],
+			[
+				"she l l",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"LiveReload: Enable/disable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"p c r",
+				"Package Control: Remove Package"
+			],
+			[
+				"p c l",
+				"Package Control: List Packages"
+			],
+			[
+				"LIVER",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"ma r k",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"qu o te",
+				"BracketHighlighter: Swap Quotes"
+			],
+			[
+				"pcrp",
+				"Package Control: Remove Package"
+			],
+			[
+				"WakaTime",
+				"WakaTime: Open Dashboard"
+			],
+			[
+				"j o s n",
+				"Set Syntax: JSON (Javascript Next)"
+			],
+			[
+				"fe",
+				"Fetch: Manage"
+			],
+			[
+				"PC",
+				"Package Control: Install Package"
+			],
+			[
+				"pic",
+				"Color Picker"
+			],
+			[
+				"color",
+				"Color Picker"
+			],
+			[
+				"Pcl",
+				"Package Control: List Packages"
+			],
+			[
+				"p cr",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"20*.6",
+			"119+40+2",
+			"74/14",
+			"(2.16-0.8)/2",
+			"(2.15-0.8)/2",
+			"2.15-0.8",
+			"  2.15-0.8",
+			"  2.15-.8",
+			"154/2",
+			"54/2",
+			"(2-1.35)/2",
+			"2-1.35",
+			"10000/365",
+			"8000/5",
+			"9.25/2",
+			"44+24+12",
+			"32/20",
+			".05*20",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/guowen/ray/qn-wd-order-mobile/modules/sms/chargeLog/view.js",
+		"/Users/guowen/ray/qn-wd-order-mobile/modules/sms/chargeLog/template.js",
+		"/Users/guowen/ray/qn-wd-order-mobile/modules/sms/chargeLog/module.js",
+		"/Users/guowen/ray/qn-wd-order-mobile/modules/sms/sendLog/module.js",
+		"/Users/guowen/ray/qn-wd-order-pc/modules/note/dxju/view.js",
+		"/Users/guowen/Library/Containers/com.tencent.Foxmail/Data/Library/Foxmail/Profiles/chenguowen@raycloud.com/Mail/15/1/2617203515818588641.attachment/移动短信充值记录/index.html",
+		"/Users/guowen/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/Users/guowen/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/Users/guowen/ray/qn-wd-order-mobile/index.html",
+		"/Users/guowen/ray/qn-wd-order-mobile/modules/sms/charge/template.charge.js",
+		"/Users/guowen/ray/qn-wd-order-pc/modules/note/dxju/module.js",
+		"/Users/guowen/ray/qn-wd-order-pc/modules/note/dxyx/template.dxyx.js",
+		"/Users/guowen/ray/qn-wd-order-pc/modules/note/dxyx/view.dxyx.js",
+		"/Users/guowen/ray/qn-wd-order-pc/resources/css/combine.less",
+		"/Users/guowen/ray/qn-wd-order-pc/dist/modules/note/dxyx/template.dxyx.js",
+		"/Users/guowen/ray/qn-wd-order-pc/modules/note/dxju/template.js",
+		"/Users/guowen/ray/qn-wd-order-pc/dist/modules/note/dxju/template.js",
+		"/Users/guowen/ray/qn-wd-order-pc/.gitignore",
+		"/Users/guowen/ray/qn-wd-order-mobile/controls/control.buyerAnalyze.js",
+		"/Users/guowen/ray/qn-wd-order-pc/conf/mock.js",
+		"/Users/guowen/ray/qn-wd-order-pc/modules/note/glhmd/template.glhmd.js",
+		"/Users/guowen/ray/qn-wd-order-mobile/controls/view.getTradeList.js",
+		"/Users/guowen/Library/Application Support/Sublime Text 3/Packages/User/JavaScript-Completions.sublime-settings",
+		"/Users/guowen/Library/Application Support/Sublime Text 3/Packages/User/Evaluate-JavaScript.sublime-settings",
+		"/Users/guowen/Desktop/README.md",
+		"/Users/guowen/ray/qn-wd-order-mobile/resources/css/common.css",
+		"/Users/guowen/ray/qn-wd-order-pc/modules/note/vip_manage/module.vip_manage.js",
+		"/Users/guowen/ray/qn-wd-order-pc/modules/note/vip_manage/template.vip_manage.js",
+		"/Users/guowen/ray/qn-wd-order-mobile/resources/css/wl_abr.less",
+		"/Users/guowen/ray/qn-wd-order-mobile/controls/view.getTradeDetail.js",
+		"/Users/guowen/ray/qn-wd-order-mobile/controls/template.getTradeList.js",
+		"/Users/guowen/ray/qn-wd-order-mobile/controls/template.getTradeDetail.js",
+		"/Users/guowen/ray/qn-wd-order-mobile/modules/module.cacheAdvance.js",
+		"/Users/guowen/ray/qn-wd-order-mobile/modules/ship/template.ship.js",
+		"/Users/guowen/Library/Application Support/Sublime Text 3/Packages/JavaScript Completions/javascript_completions/JavaScript-Completions.sublime-settings",
+		"/Users/guowen/Library/Application Support/Sublime Text 3/Packages/JavaScript Completions/evaluate_javascript/Evaluate-JavaScript.sublime-settings",
+		"/Users/guowen/ray/qn-wd-order-pc/index.html",
+		"/Users/guowen/ray/qn-wd-order-mobile/mock_ajax/mst_user_get_info.js",
+		"/Users/guowen/ray/qn-wd-order-mobile/mock_ajax/get_buyer_abnormal_info.js",
+		"/Users/guowen/ray/qn-wd-order-mobile/modules/order/template.js",
+		"/Users/guowen/ray/qn-wd-order-mobile/resources/css/sm.less",
+		"/Users/guowen/Library/Application Support/Sublime Text 3/Packages/User/sbc-setting.sublime-settings",
+		"/Users/guowen/ray/qn-wd-order-mobile/modules/order/view.js",
+		"/Users/guowen/ray/qn-wd-order-mobile/.eslintrc",
+		"/Users/guowen/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/guowen/Library/Application Support/Sublime Text 3/Packages/User/Markdown.sublime-settings",
+		"/Users/guowen/ray/qn-wd-order-mobile/mock_ajax/get_seller_info.js",
+		"/Users/guowen/ray/qn-wd-order-mobile/modules/order/detail/view.order.detail.js",
+		"/Users/guowen/ray/qn-wd-order-mobile/controls/control.tradeAction.js",
+		"/Users/guowen/ray/qn-wd-order-mobile/modules/modules.min.js",
+		"/Users/guowen/ray/qn-wd-order-pc/modules/note/special_tel/view.special_tel.js",
+		"/Users/guowen/ray/qn-wd-order-pc/modules/note/send_log/template.send_log.js",
+		"/Users/guowen/ray/qn-wd-order-pc/modules/note/send_log/module.send_log.js",
+		"/Users/guowen/ray/qn-wd-order-pc/controls/template.note.msgPreview.js",
+		"/Users/guowen/ray/qn-wd-order-pc/resources/css/note.less",
+		"/Users/guowen/ray/qn-wd-order-pc/framework/main.js",
+		"/Users/guowen/ray/qn-wd-order-pc/newIndex2/framework/main.js",
+		"/Users/guowen/ray/qn-wd-order-mobile/modules/useGuide/smsMassGuide/view.js",
+		"/Users/guowen/ray/qn-wd-order-mobile/modules/useGuide/smsMassGuide/module.js",
+		"/Users/guowen/ray/qn-wd-order-mobile/modules/useGuide/smsMassGuide/template.js",
+		"/Users/guowen/ray/qn-wd-order-mobile/modules/sms/sendMessage/template.js",
+		"/Users/guowen/ray/qn-wd-order-mobile/resources/css/order.less",
+		"/Users/guowen/ray/qn-wd-order-mobile/modules/order/list/view.js",
+		"/Users/guowen/ray/qn-wd-order-mobile/controls/control.getTradeList.js",
+		"/Users/guowen/ray/qn-wd-order-mobile/controls/view.shipPopup.js",
+		"/Users/guowen/ray/qn-wd-order-mobile/resources/css/fonts.less",
+		"/Users/guowen/ray/qn-wd-order-mobile/controls/template.shipPopup.js",
+		"/Users/guowen/ray/qn-wd-order-mobile/doc/字体说明/demo.html",
+		"/Users/guowen/ray/qn-wd-order-mobile/mock_ajax/get_buyer_exception_info.js",
+		"/Users/guowen/ray/qn-wd-order-mobile/framework/js/mock_config.js",
+		"/Users/guowen/ray/qn-wd-order-mobile/framework/js/api.js",
+		"/Users/guowen/ray/qn-wd-order-mobile/framework/js/mock.js",
+		"/Users/guowen/ray/qn-wd-order-mobile/modules/ship/together/view.ship.together.js",
+		"/Users/guowen/ray/qn-wd-order-mobile/controls/control.shipPopup.js",
+		"/Users/guowen/ray/qn-wd-order-mobile/modules/sms/charge/module.charge.js",
+		"/Users/guowen/ray/qn-wd-order-mobile/modules/sms/manage/module.manage.js",
+		"/Users/guowen/ray/qn-wd-order-mobile/modules/order/detail/template.order.detail.js",
+		"/Users/guowen/ray/qn-wd-order-mobile/Find Results",
+		"/Users/guowen/ray/qn-wd-order-mobile/controls/control.shipScan.js",
+		"/Users/guowen/ray/qn-wd-order-mobile/mock_ajax/mst_sms_package.js",
+		"/Users/guowen/ray/qn-wd-order-mobile/resources/css/sms.less",
+		"/Users/guowen/ray/qn-wd-order-mobile/mock_ajax/sms_buy_status.js",
+		"/Users/guowen/ray/qn-wd-order-mobile/controls/control.user.js",
+		"/Users/guowen/ray/qn-wd-order-mobile/modules/ship/together/template.ship.together.js",
+		"/Users/guowen/ray/qn-wd-order-mobile/resources/css/css.with.frame.combine.less",
+		"/Users/guowen/ray/qn-wd-order-mobile/modules/module.sysInit.js",
+		"/Users/guowen/ray/qn-wd-order-mobile/resources/css/common.less",
+		"/Users/guowen/ray/qn-wd-order-mobile/mock_ajax/sync_buyer.js",
+		"/Users/guowen/ray/qn-wd-order-mobile/controls/control.logisticsAbnormal.js",
+		"/Users/guowen/ray/qn-wd-order-mobile/resources/css/css.less",
+		"/Users/guowen/ray/qn-wd-order-mobile/modules/contentCenter/feedback/view.js",
+		"/Users/guowen/ray/qn-wd-order-pc/node_modules/cz-conventional-changelog/package.json",
+		"/Users/guowen/Library/Application Support/Sublime Text 3/Packages/MarkdownEditing/Markdown.sublime-settings",
+		"/Users/guowen/ray/qn-wd-order-pc/.eslintrc",
+		"/Users/guowen/ray/qn-wd-order-pc/controls/template.promotion.popup.js",
+		"/Users/guowen/ray/qn-wd-order-pc/controls/controls.promotion.js",
+		"/untitled",
+		"/Users/guowen/ray/qn-wd-order-mobile/modules/order/close/view.order.close.js",
+		"/Users/guowen/ray/qn-wd-order-mobile/modules/order/sku/module.order.sku.js",
+		"/Users/guowen/ray/qn-wd-order-mobile/modules/order/sku/view.order.sku.js",
+		"/Users/guowen/ray/qn-wd-order-mobile/modules/order/address/view.order.address.js",
+		"/Users/guowen/ray/qn-wd-order-mobile/modules/order/revenue/template.order.revenue.js",
+		"/Users/guowen/ray/qn-wd-order-mobile/modules/order/revenue/view.order.revenue.js",
+		"/Users/guowen/ray/qn-wd-order-mobile/modules/order/memo/view.order.memo.js",
+		"/Users/guowen/ray/qn-wd-order-mobile/modules/order/modifyLogistics/module.order.modifyLogistics.js",
+		"/Users/guowen/ray/qn-wd-order-mobile/modules/order/postpone/template.order.postpone.js",
+		"/Users/guowen/ray/qn-wd-order-mobile/modules/order/postpone/view.order.postpone.js",
+		"/Users/guowen/ray/qn-wd-order-mobile/modules/order/list/module.js",
+		"/Users/guowen/ray/qn-wd-order-mobile/modules/order/list/template.js",
+		"/Users/guowen/ray/qn-wd-order-pc/resources/css/cplj.less",
+		"/Users/guowen/ray/qn-wd-order-pc/modules/note/note_marketing/module.note_marketing.js",
+		"/Users/guowen/ray/qn-wd-order-pc/modules/ddfh/custom_print/module.js",
+		"/Users/guowen/github/DEMO/imooc/nodeMoivePage/package.json",
+		"/Users/guowen/github/DEMO/imooc/nodeMoivePage/app.js",
+		"/Users/guowen/Library/Rime/luna_pinyin.custom.yaml",
+		"/Users/guowen/Library/Rime/default.custom.yaml",
+		"/Users/guowen/Library/Rime/luna_pinyin.website.dict.yaml",
+		"/Users/guowen/ray/qn-wd-order-pc/modules/note/note_marketing/view.note_marketing.js",
+		"/Users/guowen/ray/qn-wd-order-mobile/modules/sms/setting/module.setting.js",
+		"/Users/guowen/ray/qn-wd-order-pc/dist/resources/js/extend.js",
+		"/Users/guowen/ray/qn-wd-order-pc/newIndex2/resources/css/combine.css",
+		"/Users/guowen/ray/qn-wd-order-pc/dist/modules/note/dxyx/view.dxyx.js",
+		"/Users/guowen/ray/qn-wd-order-pc/dist/modules/note/special_tel/view.special_tel.js",
+		"/Users/guowen/ray/qn-wd-order-pc/modules/note/note_marketing/template.note_marketing.js",
+		"/Users/guowen/ray/qn-wd-order-pc/modules/module.clickPoint.js",
+		"/Users/guowen/ray/qn-wd-order-pc/dist/framework/js/Tatami-pc-v0-combine.min.js",
+		"/Users/guowen/ray/qn-wd-order-pc/modules/note/dxyx/module.dxyx.js",
+		"/Users/guowen/ray/qn-wd-order-pc/conf/api.js"
+	],
+	"find":
+	{
+		"height": 48.0
+	},
+	"find_in_files":
+	{
+		"height": 130.0,
+		"where_history":
+		[
+			"/Users/guowen/ray/qn-wd-order-pc",
+			"/Users/guowen/ray/qn-wd-order-mobile",
+			"/Users/guowen/ray/qn-wd-order-pc",
+			"/Users/guowen/ray/qn-wd-order-mobile",
+			"/Users/guowen/ray/qn-wd-order-pc/modules/note",
+			"/Users/guowen/ray/qn-wd-order-mobile/",
+			"/Users/guowen/ray/qn-wd-order-mobile/modules",
+			"/Users/guowen/ray/qn-wd-order-pc/",
+			"/Users/guowen/ray/qn-wd-order-pc/modules/note",
+			"/Users/guowen/ray/qn-wd-order-mobile/",
+			"/Users/guowen/ray/qn-wd-order-mobile/mock_ajax",
+			"/Users/guowen/ray/qn-wd-order-mobile",
+			"/Users/guowen/ray/qn-wd-order-mobile/resources",
+			"/Users/guowen/ray/qn-wd-order-mobile/",
+			"/Users/guowen/ray/qn-wd-order-mobile/modules",
+			"/Users/guowen/ray/qn-wd-order-pc/modules",
+			"/Users/guowen/ray/qn-wd-order-pc",
+			"/Users/guowen/ray/qn-wd-order-p c",
+			"/Users/guowen/ray/qn-wd-order-mobile",
+			"/Users/guowen/ray/qn-wd-order-movile",
+			"/Users/guowen/ray/qn-wd-order-pc",
+			"/Users/guowen/ray/qn-wd-order-pc/modules/note",
+			"/Users/guowen/ray/qn-wd-order-pc/modules",
+			"/Users/guowen/ray/qn-wd-order-pc",
+			"/Users/guowen/ray/qn-wd-order-mobile",
+			"/Users/guowen/ray/qn-wd-order-pc/",
+			"/Users/guowen/ray/qn-wd-order-pc/resources",
+			"/Users/guowen/ray/qn-wd-order-pc",
+			"/Users/guowen/ray/qn-wd-order-mobile",
+			"/Users/guowen/ray/qn-wd-order-pc",
+			"/Users/guowen/ray/qn-wd-order-mobile",
+			"/Users/guowen/ray/qn-wd-order-pc",
+			"/Users/guowen/ray/qn-wd-order-p c",
+			"/Users/guowen/ray/qn-wd-order-mobile",
+			"/Users/guowen/ray/qn-wd-order-pc",
+			"/Users/guowen/ray/qn-wd-order-mobile",
+			"/Users/guowen/ray/qn-wd-order-pc",
+			"/Users/guowen/ray/qn-wd-order-mobile",
+			"/Users/guowen/ray/qn-wd-order-mobile/resources",
+			"/Users/guowen/ray/qn-wd-order-mobile",
+			"/Users/guowen/ray/qn-wd-order-pc",
+			"/Users/guowen/ray/qn-wd-order-p c",
+			"/Users/guowen/ray/qn-wd-order-mobile",
+			"/Users/guowen/ray/qn-order-pc",
+			"/Users/guowen/ray",
+			"/Users/guowen/ray/example",
+			"/Users/guowen/ray/qn-order-mobile",
+			"/Users/guowen/ray/qn-wd-order-pc",
+			"/Users/guowen/ray/qn-wd-order-",
+			"/Users/guowen/ray/qn-wd-order-pc",
+			"/Users/guowen/ray/qn-wd-order-mobile",
+			"/Users/guowen/ray/qn-wd-order-mobile/resources",
+			"/Users/guowen/ray/qn-wd-order-mobile",
+			"/Users/guowen/github/IFE/2016_spring/graspJavaScript",
+			"/Users/guowen/ray/qn-wd-order-mobile",
+			"/Users/guowen/ray/upgradeTab",
+			"/Users/guowen/ray/qn-wd-order-mobile",
+			"/Users/guowen/ray/qn-wd-order-mobile/",
+			"/Users/guowen/ray/qn-wd-order-mobile/modules"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"冲",
+			"vers",
+			"version",
+			" var _val",
+			"last",
+			"first",
+			"last",
+			"for",
+			"sms-template-left",
+			"margin-right: 230px;",
+			".sms-template-left",
+			"_get_sms_template_list",
+			"自定义",
+			"_add_sms_template",
+			"自定义模板",
+			"expiredTime",
+			"_",
+			"console.err",
+			"console.error(data);",
+			"\n\n console.error(data);",
+			" console.error(data);",
+			"helpers",
+			"getRecharge",
+			"table-bordered-simple",
+			"订购费用",
+			"订购类型",
+			" console.log",
+			"log",
+			".show_buyer_detail",
+			"buyer_analyze_show_more",
+			"get_sms_send_log_new",
+			"queryList",
+			"renderList",
+			"getRecharge",
+			"api",
+			"true",
+			"buyer_analyze_goLinksBtn1",
+			"buyer_analyze_goLinksBtn",
+			"console.log",
+			"可以更易",
+			"fi",
+			"fir",
+			"show_buyer_detail_ul",
+			"buyer_analyze_order_list",
+			"li:first-child",
+			".show_buyer_detail_ul li:first-child",
+			" .show_buyer_detail_ul li:first-child",
+			".buyer_analyze_order_list .show_buyer_detail_ul li:first-child",
+			"margin-bottom",
+			"buyer_analyze_order_list",
+			"buyer_analyze_search_nick-wrap",
+			"level: 3",
+			"buyer_analyze_show_more",
+			".buyer_analyze_show_more",
+			"width:100%; position:relative; font-size:0.6rem; height:0.9rem;",
+			"未对买家异常分析,可能会存在风险影响信誉",
+			"l#/sms/charge/",
+			"未对买家异常分析,可能会存在风险影响信誉",
+			".buyer_analyze_show_more",
+			"item-li buyer_analyze_search_nick buyer_analyze_search_nick-wrap",
+			"对买家异常分析，可以更易转化和服务买家",
+			"对买家异常分析",
+			"对买家异常分析，可以更易转化和服务买家",
+			"未",
+			"未进行",
+			"http://center.qianniu.tao21.org/activity/getSmsMealPayUrl.jsp",
+			"buyer_analyze_search_nick-wrap",
+			".buyer_analyze_search_nick-wrap",
+			".show_buyer_detail_ul",
+			" show_buyer_detail_ul",
+			"###",
+			"##",
+			"###",
+			"### ",
+			"？",
+			"!important",
+			"!imp",
+			".list-block ul ul",
+			"tag",
+			"version",
+			"val(",
+			"val",
+			"ver",
+			"search-box",
+			"click",
+			"data-name=\"hadsend\"",
+			"待付款(",
+			"全部",
+			"level:",
+			"level:3",
+			"https://h5.m.taobao.",
+			"level:",
+			"\"level\":",
+			".show_buyer_detail_ul",
+			"h5.m.taobao",
+			"statusCustom",
+			"wangwang",
+			"msg",
+			"wangwang",
+			"wwPay",
+			"wwp",
+			"remindPay",
+			"wwPay",
+			"modifyPostFee",
+			"remindPay",
+			"自动催付",
+			"旺旺催付",
+			"旺旺",
+			"改价格",
+			"show_buyer_detail_ul",
+			"status",
+			"=====",
+			"initHashData",
+			"=======",
+			"call-box-save-",
+			"-btn{",
+			"-btn",
+			"cancel-btn",
+			"call-box-save-btn",
+			"name=\"c",
+			"[name]",
+			"[name=]",
+			"sava-b",
+			"span",
+			"name=\"cancel\"",
+			"call-box-save-btn",
+			"cancel",
+			"call-box-save-btn"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"快速核址",
+			"快速核单"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.GitSavvy":
+	{
+		"height": 156.0
+	},
+	"output.exec":
+	{
+		"height": 144.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.markdown":
+	{
+		"height": 156.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 112.0
+	},
+	"pinned_build_system": "",
+	"project": "Terminal (OSX).sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Library/Application Support/Sublime Text 3/Packages/User/Terminal (OSX).sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 354.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 785.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 193.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

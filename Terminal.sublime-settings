@@ -1,0 +1,5 @@
+{
+    // "terminal": "/Users/guowen/Library/Application Support/Sublime Text 3/Packages/Terminal/iTerm.sh",
+    "terminal": "iTerm2-v3.sh",
+    "parameters": ["--open-in-tab"]
+}

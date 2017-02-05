@@ -1,0 +1,15 @@
+<snippet>
+    <content><![CDATA[
+/**
+ * ${1:改版内容}
+ * author: guowen (本版维护 guowen)
+ * update :
+ *   - v0.1.0 ( ${2:年月日} ) ${3:说明}  by guowen
+ */
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>up</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+    <description>改版说明，作者</description>
+</snippet>

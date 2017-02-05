@@ -1,0 +1,35 @@
+{
+// Spaces color is determined by scope (default, "invalid")
+//  "highlight_whitespaces_space_highlight_scope_name": "Whitespaces.space.highlight",
+
+// Tabs color is determined by scope (default, "invalid")
+//  "highlight_whitespaces_tab_highlight_scope_name": "Whitespaces.tab.highlight",
+
+// End-of-line color is determined by scope (default, "invalid")
+//  "highlight_whitespaces_eol_highlight_scope_name": "Whitespaces.eol.highlight",
+
+// End-of-line color is determined by scope (default, "invalid")
+//  "highlight_whitespaces_mixed_highlight_scope_name": "Whitespaces.eol.highlight",
+
+
+// Max file size to search
+    "highlight_whitespaces_file_max_size": 1048576,
+
+// By default plugin is enabled or disabled (true|false)
+    "highlight_whitespaces_enabled": true,
+
+// Whether to check for spaces
+    "highlight_whitespaces_check_spaces": true,
+
+// Whether to check for tabs
+    "highlight_whitespaces_check_tabs": true,
+
+// Whether to check for end-of-line whitespace
+    "highlight_whitespaces_check_eol": true,
+
+// Whether to check for mixed tabs and spaces
+    "highlight_whitespaces_check_mixed": false,
+
+// Allow the highlighting of the last whitespace, one or more time
+    "highlight_last_whitespace": false
+}
