@@ -1,9 +1,10 @@
+WakaTime.sublime-settings
 Package Control.last-run
 Package Control.ca-list
 Package Control.ca-bundle
 Package Control.system-ca-bundle
 Package Control.cache/
 Package Control.ca-certs/
-sublime-config
-WakaTime.sublime-settings
-
+rc_module.sublime-snippet
+rc_template.sublime-snippet
+rc_view.sublime-snippet
