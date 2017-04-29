@@ -8,3 +8,4 @@ Package Control.ca-certs/
 rc_module.sublime-snippet
 rc_template.sublime-snippet
 rc_view.sublime-snippet
+oscrypto-ca-bundle.crt
