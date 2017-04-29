@@ -5,7 +5,7 @@
 {
     // Your api key from https://wakatime.com/#apikey
     // Set this in your User specific WakaTime.sublime-settings file.
-    "api_key": "18623d99-efc6-48f0-bdfa-8f3f3ef5310e",
+    "api_key": "",
 
     // Ignore files; Files (including absolute paths) that match one of these
     // POSIX regular expressions will not be logged.
