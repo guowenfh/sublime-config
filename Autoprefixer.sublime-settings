@@ -1,5 +1,5 @@
 {
-    "browsers": ["last 10 versions"],
+    "browsers": ["last 10 versions","Android >= 4.0"],
     "cascade": true,
     "remove": true,
     "prefixOnSave": false

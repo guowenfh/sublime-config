@@ -1,5 +1,4 @@
-[
-    //自动进行文件缩进
+[        //自动进行文件缩进
     {
         "keys": ["shift+tab"], "command": "reindent","args":{"single_line":false}
     },
@@ -54,7 +53,7 @@
     },
     // "draw_white_space": "all", //（配置文件中的，控制显示和空格
     // ）
-
-
-]
-
+    {
+        "keys": ["ctrl+r"],
+     "command": "side_bar_folders_quick_switch"
+    }]

@@ -2,31 +2,16 @@
 	"folders":
 	[
 		{
-			"path": "/Users/guowen/websites/upgrade"
-		},
-		{
-			"path": "/Users/guowen/TTM_workspace/example"
-		},
-		{
 			"path": "/Users/guowen/ray/广告系统"
-		},
-		{
-			"path": "/Users/guowen/ray/upgradeTab"
 		},
 		{
 			"path": "/Users/guowen/ray/tatami-build"
 		},
 		{
-			"path": "/Users/guowen/ray/super-goods-mobile"
+			"path": "/Users/guowen/ray/question-system"
 		},
 		{
-			"path": "/Users/guowen/ray/raycloud-framework"
-		},
-		{
-			"path": "/Users/guowen/ray/qn-wd-order-pc/node_modules"
-		},
-		{
-			"path": "/Users/guowen/ray/qn-wd-order-pc/mock_ajax"
+			"path": "/Users/guowen/ray/qn-wd-order-pc/.git"
 		},
 		{
 			"path": "/Users/guowen/ray/qn-wd-order-pc"
@@ -41,115 +26,58 @@
 			"path": "/Users/guowen/ray/qn-order-mobile"
 		},
 		{
+			"path": "/Users/guowen/ray/QAP-wd-items-mobile"
+		},
+		{
 			"path": "/Users/guowen/ray/QAP-qn-wd-order-mobile"
 		},
 		{
-			"path": "/Users/guowen/ray/example"
-		},
-		{
-			"path": "/Users/guowen/ray/AwesomeProject"
+			"path": "/Users/guowen/ray/advertise-zx-pc"
 		},
 		{
 			"path": "/Users/guowen/ray"
 		},
 		{
-			"path": "/Users/guowen/Library/Rime"
-		},
-		{
-			"path": "/Users/guowen/Library/Preferences/WebStorm2016.2/keymaps"
-		},
-		{
 			"path": "/Users/guowen/Library/Application Support/Sublime Text 3/Packages/User"
 		},
 		{
-			"path": "/Users/guowen/Library/Application Support/Sublime Text 3/Packages/JavaScript Completions/evaluate_javascript"
+			"path": "/Users/guowen/Library/Application Support/Sublime Text 3/Packages"
 		},
 		{
-			"path": "/Users/guowen/github/seaJs"
+			"path": "/Users/guowen/github/vue2-demo"
 		},
 		{
-			"path": "/Users/guowen/github/reactDemo"
+			"path": "/Users/guowen/github/react-template"
 		},
 		{
-			"path": "/Users/guowen/github/reactBaseDome"
-		},
-		{
-			"path": "/Users/guowen/github/reactApp"
-		},
-		{
-			"path": "/Users/guowen/github/react-yo-generate"
-		},
-		{
-			"path": "/Users/guowen/github/react-starter-kit"
-		},
-		{
-			"path": "/Users/guowen/github/react-cnode/src"
+			"path": "/Users/guowen/github/react-demo"
 		},
 		{
 			"path": "/Users/guowen/github/react-cnode"
 		},
 		{
-			"path": "/Users/guowen/github/Node-blog"
-		},
-		{
-			"path": "/Users/guowen/github/Node"
-		},
-		{
-			"path": "/Users/guowen/github/N-blog.wiki"
-		},
-		{
-			"path": "/Users/guowen/github/mobile-modules"
-		},
-		{
-			"path": "/Users/guowen/github/jstraining"
-		},
-		{
-			"path": "/Users/guowen/github/IFE/"
-		},
-		{
 			"path": "/Users/guowen/github/IFE"
 		},
 		{
-			"path": "/Users/guowen/github/DEMO"
-		},
-		{
-			"path": "/Users/guowen/github/Blog-backups/source/_posts"
+			"path": "/Users/guowen/github/DEMO/EDU"
 		},
 		{
 			"path": "/Users/guowen/github/Blog-backups"
 		},
 		{
-			"path": "/Users/guowen/github/aaa"
-		},
-		{
 			"path": "/Users/guowen/github"
 		},
 		{
-			"path": "/Users/guowen/Downloads/images(1)"
+			"path": "/Users/guowen/Downloads/icomoon (1)"
 		},
 		{
-			"path": "/Users/guowen/Desktop/旺店交易代码"
+			"path": "/Users/guowen/Downloads/chaojiqianniu/wdfunction"
+		},
+		{
+			"path": "/Users/guowen/Downloads/chaojiqianniu"
 		},
 		{
 			"path": "/Users/guowen/Desktop/md"
-		},
-		{
-			"path": "/Users/guowen/Desktop"
-		},
-		{
-			"path": "/Users/guowen/.vscode/extensions/taichi.react-beautify-0.3.0"
-		},
-		{
-			"path": "/Users/guowen/.oh-my-zsh/plugins/git"
-		},
-		{
-			"path": "/Users/guowen/.oh-my-zsh"
-		},
-		{
-			"path": "/Users/guowen"
-		},
-		{
-			"path": "/private/etc/pf.anchors"
 		}
 	]
 }
